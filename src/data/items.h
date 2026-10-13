@@ -1956,8 +1956,8 @@ const struct ItemInfo gItemsInfo[] =
         .pluralName = ITEM_PLURAL_NAME("Endless Candies"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Raises a Pokémon\\n"
-            "to the current\\n"
+            "Raises a Pokemon\n"
+            "to the current\n"
             "level cap."),
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
