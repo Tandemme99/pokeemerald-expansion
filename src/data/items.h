@@ -1950,6 +1950,25 @@ const struct ItemInfo gItemsInfo[] =
 
 // Candies
 
+    [ITEM_ENDLESS_CANDY] =
+    {
+        .name = ITEM_NAME("Endless Candy"),
+        .pluralName = ITEM_PLURAL_NAME("Endless Candies"),
+        .price = 0,
+        .description = COMPOUND_STRING(
+            "Raises a Pokémon\\n"
+            "to the current\\n"
+            "level cap."),
+        .pocket = POCKET_ITEMS,
+        .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
+        .effect = gItemEffect_RareCandy,
+        .flingPower = 30,
+        .iconPic = gItemIcon_RareCandy,
+        .iconPalette = gItemIconPalette_RareCandy,
+    },
+
     [ITEM_RARE_CANDY] =
     {
         .name = ITEM_NAME("Rare Candy"),
