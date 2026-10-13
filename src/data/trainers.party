@@ -4602,16 +4602,16 @@ Level: 46
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Roar
 - Double Edge
-- Sand Attack
+- Bite
 - Crunch
 
 Shiftry
 Level: 48
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Torment
-- Double Team
-- Swagger
+- Fake Out
+- Giga Drain
 - Extrasensory
+- Feint Attack
 
 Cacturne
 Level: 46
@@ -4619,7 +4619,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Leech Seed
 - Feint Attack
 - Needle Arm
-- Cotton Spore
+- Pin Missile
 
 Crawdaunt
 Level: 48
@@ -4627,7 +4627,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Surf
 - Swords Dance
 - Strength
-- Facade
+- Crunch
 
 Absol @ Sitrus Berry
 Level: 49
@@ -4668,7 +4668,7 @@ Sableye
 Level: 50
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Shadow Ball
-- Double Team
+- Fake Out
 - Night Shade
 - Feint Attack
 
@@ -4683,10 +4683,10 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 Dusclops @ Sitrus Berry
 Level: 51
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Shadow Ball
-- Ice Beam
-- Rock Slide
-- Earthquake
+- Shadow Punch
+- Confuse Ray
+- Curse
+- Protect
 
 === TRAINER_GLACIA ===
 Name: GLACIA
@@ -4705,7 +4705,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Encore
 - Body Slam
 - Hail
-- Ice Ball
+- Aurora Beam
 
 Glalie
 Level: 50
@@ -4718,17 +4718,17 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 Sealeo
 Level: 52
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Attract
-- Double Edge
+- Encore
+- Body Slam
 - Hail
-- Blizzard
+- Aurora Beam
 
 Glalie
 Level: 52
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Shadow Ball
-- Explosion
-- Hail
+- Light Screen
+- Crunch
+- Icy Wind
 - Ice Beam
 
 Walrein @ Sitrus Berry
@@ -4737,7 +4737,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Surf
 - Body Slam
 - Ice Beam
-- Sheer Cold
+- Protect
 
 === TRAINER_DRAKE ===
 Name: DRAKE
@@ -4770,7 +4770,7 @@ Kingdra
 Level: 53
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Smokescreen
-- Dragon Dance
+- Dragon Breath
 - Surf
 - Body Slam
 
@@ -4830,7 +4830,7 @@ Class: Leader
 Pic: Leader Brawly
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
+Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4845,9 +4845,9 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Meditite
 Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Focus Punch
-- Light Screen
-- Reflect
+- Confusion
+- Detect
+- Force Palm
 - Bulk Up
 
 Makuhita @ Sitrus Berry
@@ -4855,7 +4855,7 @@ Level: 19
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Arm Thrust
 - Vital Throw
-- Reversal
+- Fake Out
 - Bulk Up
 
 === TRAINER_WATTSON_1 ===
@@ -4864,7 +4864,7 @@ Class: Leader
 Pic: Leader Wattson
 Gender: Male
 Music: Male
-Items: Super Potion / Super Potion
+Items: Super Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4873,14 +4873,14 @@ Level: 20
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rollout
 - Spark
-- Self Destruct
+- Screech
 - Shock Wave
 
 Electrike
 Level: 20
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Shock Wave
-- Leer
+- Bite
 - Quick Attack
 - Howl
 
@@ -4890,13 +4890,13 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Supersonic
 - Shock Wave
 - Thunder Wave
-- Sonic Boom
+- Metal Claw
 
 Manectric @ Sitrus Berry
 Level: 24
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Quick Attack
-- Thunder Wave
+- Bite
 - Shock Wave
 - Howl
 
@@ -4906,14 +4906,14 @@ Class: Leader
 Pic: Leader Flannery
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
+Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
 Numel
 Level: 24
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
+- Flame Burst
 - Take Down
 - Magnitude
 - Sunny Day
@@ -4921,18 +4921,18 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 Slugma
 Level: 24
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Overheat
+- Flame Burst
 - Smog
 - Light Screen
-- Sunny Day
+- Rock Throw
 
 Camerupt
 Level: 26
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Overheat
-- Tackle
-- Sunny Day
-- Attract
+- Flame Burst
+- Magnitude
+- Rock Slide
+- Amnesia
 
 Torkoal @ White Herb
 Level: 29
@@ -4940,7 +4940,7 @@ IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Overheat
 - Sunny Day
 - Body Slam
-- Attract
+- Protect
 
 === TRAINER_NORMAN_1 ===
 Name: NORMAN
@@ -4948,7 +4948,7 @@ Class: Leader
 Pic: Leader Norman
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4972,7 +4972,7 @@ Linoone
 Level: 29
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Slash
-- Belly Drum
+- Sand Attack
 - Facade
 - Headbutt
 
@@ -4990,14 +4990,14 @@ Class: Leader
 Pic: Leader Winona
 Gender: Female
 Music: Female
-Items: Hyper Potion / Hyper Potion
+Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer / Risky
 
 Swablu
 Level: 29
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Perish Song
+- Sing
 - Mirror Move
 - Safeguard
 - Aerial Ace
@@ -5013,7 +5013,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 Pelipper
 Level: 30
 IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
-- Water Gun
+- Water Pulse
 - Supersonic
 - Protect
 - Aerial Ace
@@ -5029,10 +5029,10 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 Altaria @ Oran Berry
 Level: 33
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Earthquake
 - Dragon Breath
 - Dragon Dance
 - Aerial Ace
+- Safeguard
 
 === TRAINER_TATE_AND_LIZA_1 ===
 Name: TATE&LIZA
@@ -5040,7 +5040,7 @@ Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
 Music: Female
-Items: Hyper Potion / Hyper Potion / Hyper Potion / Hyper Potion
+Items: Hyper Potion / Hyper Potion
 Double Battle: Yes
 AI: Basic Trainer
 
@@ -5056,7 +5056,7 @@ Xatu
 Level: 41
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Psychic
-- Sunny Day
+- Air Cutter
 - Confuse Ray
 - Calm Mind
 
@@ -5065,13 +5065,13 @@ Level: 42
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Light Screen
 - Psychic
-- Hypnosis
+- Rock Slide
 - Calm Mind
 
 Solrock @ Sitrus Berry
 Level: 42
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
-- Sunny Day
+- Rock Slide
 - Solar Beam
 - Psychic
 - Flamethrower
@@ -5082,7 +5082,7 @@ Class: Leader
 Pic: Leader Juan
 Gender: Male
 Music: Male
-Items: Hyper Potion / Hyper Potion
+Items: Hyper Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -5092,7 +5092,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
 - Attract
 - Sweet Kiss
-- Flail
+- Icy Wind
 
 Whiscash
 Level: 41
@@ -5116,13 +5116,13 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Water Pulse
 - Crabhammer
 - Taunt
-- Leer
+- Knock Off
 
 Kingdra @ Chesto Berry
 Level: 46
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 - Water Pulse
-- Double Team
+- Dragon Breath
 - Ice Beam
 - Rest
 
@@ -6248,7 +6248,7 @@ Class: Champion
 Pic: Champion Wallace
 Gender: Male
 Music: Male
-Items: Full Restore / Full Restore / Full Restore / Full Restore
+Items: Full Restore / Full Restore
 Double Battle: No
 AI: Basic Trainer
 Mugshot: Yellow
@@ -6275,7 +6275,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Giga Drain
 - Surf
 - Leech Seed
-- Double Team
+- Fake Out
 
 Whiscash
 Level: 56
@@ -6283,14 +6283,14 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 - Surf
 - Amnesia
-- Hyper Beam
+- Rock Slide
 
 Gyarados
 Level: 56
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Dragon Dance
 - Earthquake
-- Hyper Beam
+- Return
 - Surf
 
 Milotic @ Sitrus Berry
