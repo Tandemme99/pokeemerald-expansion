@@ -4796,7 +4796,7 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Potion / Potion
+Items: Potion
 Double Battle: No
 AI: Basic Trainer
 
@@ -4808,12 +4808,12 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Rock Throw
 - Rock Tomb
 
-Geodude
-Level: 12
+Aron
+Level: 13
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
-- Defense Curl
-- Rock Throw
+- Harden
+- Metal Claw
 - Rock Tomb
 
 Nosepass @ Oran Berry
